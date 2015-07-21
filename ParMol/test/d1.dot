@@ -1,0 +1,5 @@
+digraph 1{
+	V1 [label="a"]
+	V2 [label="c"]
+	V1 -> V2
+}

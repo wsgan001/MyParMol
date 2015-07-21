@@ -1,0 +1,7 @@
+digraph 2{
+	V1 [label="a"]
+	V2 [label="c"]
+	V3 [label="b"]
+	V1 -> V2
+	V2 -> V3
+}
